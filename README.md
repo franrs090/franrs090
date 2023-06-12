@@ -12,7 +12,7 @@ public fran {
     technologies: {
             java: [],
             html: [],
-            css: ["bootstrap", "sass"]
+            css: ["bootstrap", "sass"],
             databases: ["MySql"],
             
     }
