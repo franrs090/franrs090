@@ -8,7 +8,7 @@ Hi there, thanks for stopping by, this is Francisco Rodriguez.
 public fran {
 
     pronouns: "He" | "Him",
-    askMeAbout: ["web dev", "java aplications"],
+    askMeAbout: ["web dev", "java applications"],
     technologies: {
             java: [],
             html: [],
