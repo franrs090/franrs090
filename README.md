@@ -34,7 +34,7 @@ public fran {
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=franrs090&layout=pie&theme=merko" />
 
-![footer](https://capsule-render.vercel.app/api?type=waving&color=0a0f0b&height=300&section=footer&fontSize=90)
+<img src="https://raw.githubusercontent.com/trinib/trinib/82213791fa9ff58d3ca768ddd6de2489ec23ffca/images/footer.svg" width="100%">
 
 ---
 
