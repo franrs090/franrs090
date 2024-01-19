@@ -10,7 +10,7 @@ public fran {
     pronouns: "He" | "Him",
     askMeAbout: ["web dev", "java applications"],
     technologies: {
-            java: [springboot],
+            java: ["springboot"],
             html: [],
             css: ["bootstrap", "sass"],
             databases: ["MySql"],
