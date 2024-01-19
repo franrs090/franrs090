@@ -10,11 +10,11 @@ public fran {
     pronouns: "He" | "Him",
     askMeAbout: ["web dev", "java applications"],
     technologies: {
-            java: [],
+            java: [springboot],
             html: [],
             css: ["bootstrap", "sass"],
             databases: ["MySql"],
-            
+            oracle: ["PL/SQL"],
     }
 };
 ```
